@@ -1,8 +1,0 @@
-C:\Users\resar\Desktop\C#\Culculetor\Culculetor\bin\Debug\Culculetor.exe.config
-C:\Users\resar\Desktop\C#\Culculetor\Culculetor\bin\Debug\Culculetor.exe
-C:\Users\resar\Desktop\C#\Culculetor\Culculetor\bin\Debug\Culculetor.pdb
-C:\Users\resar\Desktop\C#\Culculetor\Culculetor\obj\Debug\Culculator.csproj.AssemblyReference.cache
-C:\Users\resar\Desktop\C#\Culculetor\Culculetor\obj\Debug\Culculator.csproj.SuggestedBindingRedirects.cache
-C:\Users\resar\Desktop\C#\Culculetor\Culculetor\obj\Debug\Culculator.csproj.CoreCompileInputs.cache
-C:\Users\resar\Desktop\C#\Culculetor\Culculetor\obj\Debug\Culculetor.exe
-C:\Users\resar\Desktop\C#\Culculetor\Culculetor\obj\Debug\Culculetor.pdb
